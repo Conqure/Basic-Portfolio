@@ -78,3 +78,16 @@ h4 {
     color: teal;
     font-size: 30px;
 }
+
+
+
+  div {
+    border-radius: 5px;
+    background-color: #F2F2F2;
+    padding: 20px;
+  }
+    div {
+      border-radius: 5px;
+      background-color: #F2F2F2;
+      padding: 20px;
+    }
